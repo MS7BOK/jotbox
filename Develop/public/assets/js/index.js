@@ -15,7 +15,7 @@ if (window.location.pathname === '/notes') {
   noteList = document.querySelectorAll('.list-container .list-group');
 }
 
-// Show an element
+// Show an elementRepository contains a quality README file with description, screenshot, and link to deployed application.
 const show = (elem) => {
   elem.style.display = 'inline';
 };
